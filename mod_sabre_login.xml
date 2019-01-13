@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension type="module" version="3.1" client="site" method="upgrade">
-	<name>mod_login</name>
-	<author>Joomla! Project</author>
-	<creationDate>July 2006</creationDate>
+	<name>mod_sabre_login</name>
+	<author>Geeziel Carvalho</author>
+	<creationDate>January 2019</creationDate>
 	<copyright>Copyright (C) 2005 - 2018 Open Source Matters. All rights reserved.</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
-	<authorEmail>admin@joomla.org</authorEmail>
-	<authorUrl>www.joomla.org</authorUrl>
-	<version>3.0.0</version>
+	<authorEmail>contato@gezielcarvalho.info</authorEmail>
+	<authorUrl>gezielcarvalho.info</authorUrl>
+	<version>1.0.0</version>
 	<description>MOD_LOGIN_XML_DESCRIPTION</description>
 	<files>
-		<filename module="mod_login">mod_login.php</filename>
+		<filename module="mod_sabre_login">mod_login.php</filename>
 		<folder>tmpl</folder>
 		<filename>helper.php</filename>
 	</files>

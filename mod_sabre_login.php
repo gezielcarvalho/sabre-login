@@ -26,4 +26,4 @@ if (!$user->guest)
 	$layout .= '_logout';
 }
 
-require JModuleHelper::getLayoutPath('mod_login', $layout);
+require JModuleHelper::getLayoutPath('mod_sabre_login', $layout);
